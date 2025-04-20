@@ -57,3 +57,4 @@
 2025-09-01 16:22:19 add integration tests
 2025-04-28 20:00:57 fix typo in code
 2025-10-02 10:30:15 fix misconfiguration
+2025-04-20 13:14:58 enhance logging
